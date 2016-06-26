@@ -1,5 +1,5 @@
 html { 
-  background: url(http://cdn.magdeleine.co/wp-content/uploads/2014/05/3jPYgeVCTWCMqjtb7Dqi_IMG_8251-1400x933.jpg) no-repeat center center fixed; 
+  background: url(https://lh3.googleusercontent.com/qzeDHEH4itIbIKtU0XAr-VMB7bKYCG4wsgWoJno2PaHuTxzMAPaWwPHMdvewrwgNcfq3Pdq8pg=s630-fcrop64=1,00410000fef7ffff) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -59,9 +59,27 @@ img {
 }
 #title {
     font-size: 50px;
+    text-align: right;
 }
 
 #menu-left {
+    padding-left: 25px;
     height: 450px;
     width: 850px;
+}
+
+#bg {
+    width: 100%;
+    height: 90px;
+    background-color: whitesmoke;
+    opacity: 0.4;
+}
+#bg h1 {
+    padding-top: 0px;
+    margin-top: 0px;
+    color: black;
+}
+body {
+    padding: 0px;
+    margin: 0px;
 }
