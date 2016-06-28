@@ -417,3 +417,10 @@ margin:0;
 .zebra-table tbody tr:nth-child(odd) { /* Make table like zebra */
 background:#eee;
 }/* End CSS for Zebra Table in index.html */
+
+.samping-rata li{
+    float:left;
+    padding: 5px;
+    margin: 5px;
+    margin-left:20px;
+}
